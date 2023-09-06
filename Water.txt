@@ -1,0 +1,18 @@
+The Dex Number: 7
+Pokemon: Squirtle
+type: Water
+Number of moves: 4
+Bubble 
+Bite 
+Tackle 
+Aqua_Tail 
+
+The Dex Number: 54
+Pokemon: Psyduck
+type: Water
+Number of moves: 4
+Soak 
+Confusion 
+Zen_Headbutt 
+Water_Sport 
+
